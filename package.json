@@ -1,0 +1,24 @@
+{
+  "name": "swipeout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "watchify example -o example/index.browser.js -d"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dirvector": "^1.1.1",
+    "doc-js": "^1.3.0",
+    "interact": "0.0.3",
+    "interact-js": "^2.0.1"
+  },
+  "devDependencies": {
+    "crel": "^2.1.8",
+    "css-translate": "^1.0.0",
+    "dirvector": "^1.0.1",
+    "venfix": "^1.2.0"
+  }
+}
