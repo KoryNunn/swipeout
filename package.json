@@ -12,7 +12,6 @@
   "dependencies": {
     "dirvector": "^1.1.1",
     "doc-js": "^1.3.0",
-    "interact": "0.0.3",
     "interact-js": "^2.0.1"
   },
   "devDependencies": {
